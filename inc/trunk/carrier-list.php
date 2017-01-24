@@ -1,5 +1,5 @@
 <?php
-$wp_sms_carrier_list = array(
+$pbr_sms_carrier_list = array(
 '3 River Wireless' 							=> '@sms.3rivers.net',
 'ACS Wireless' 									=> '@paging.acswireless.com',
 'Alltel' 												=> '@message.alltel.com',
